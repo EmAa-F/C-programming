@@ -3,7 +3,6 @@
 /*
 Aim: Write a program to print your name,     age, class, division and UIN on the screen.
 Use escape sequences to properly format the output.
-
 Name       : Ansari Mohd Emaad Akhtar
 UNI        : 241A019
 Roll No    : 19
