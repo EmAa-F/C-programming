@@ -15,7 +15,7 @@ int main() {
   scanf("%lf", &M);
   PCM=(P+C+M)/3;
   printf("The Avg of your PCM Marks:%f",PCM);
-  (PCM>=50.0)?printf("You are Eligible for college admission\n"):
+  (PCM>=50.0)?printf("\nYou are Eligible for college admission\n"):
   printf("you are not eligible for college admission");
     return 0;
 }
