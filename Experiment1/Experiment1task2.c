@@ -2,7 +2,13 @@
 
 /*Aim: Write a program to get students PCM marks from the user and find the average. Use conditional
 operator to print if the student is eligible for admission. Eligibility criteria is 50% in
-PCM.*/
+PCM.
+Name       : Ansari Mohd Emaad Akhtar
+UNI        : 241A019
+Roll No    : 19
+Div        : A1
+Department : Artificial intelligence and data science 
+*/
 
 int main() {
   double P,C,M,PCM;
