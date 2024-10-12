@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*Aim: Write a program to get students PCM marks from the user and find the average. Use conditional
-operator to print if the student is eligible for admission. Eligibility criteria is 50% in
+/*
+Aim: Write a program to get students PCM marks from the user and find the average. Use conditionaloperator to print if the student is eligible for admission. Eligibility criteria is 50% in
 PCM.
 Name       : Ansari Mohd Emaad Akhtar
 UNI        : 241A019
