@@ -1,6 +1,13 @@
-/*WAP to find the sum of all the odd
+/*
+Aim:Write a program to find the sum of all the odd
 numbers between numbers entered by the
-User.*/
+User.
+Name       : Ansari Mohd Emaad Akhtar
+UNI        : 241A019
+Roll No    : 19
+Div        : A1
+Department : Artificial intelligence and data science 
+*/
 #include<stdio.h>
 int main(){
 printf("\t\t\t ***Sum of odd numbers*** \n\n\n");
