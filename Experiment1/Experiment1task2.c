@@ -11,16 +11,17 @@ Div        : A1
 Department : Artificial intelligence and data science 
 */
 
+
 int main() { 
   // initialization of variable in the data type float
   //p= physics;c= chemistry;m= maths;PCM= avg of the p,c,m value
   float P,C,M,PCM;
   // talking input form the user
   printf("Please enter HSC marks\n");
-  printf("Enter Physics marks\t   :")
+  printf("Enter Physics marks\t   :");
   //input physics marks
   scanf("%f", &P);
-  printf("Enter Chemistry marks      :");
+  printf("Enter Chemistry marks  :");
   //input chemistry marks
   scanf("%f", &C);
   printf("Enter Maths marks\t   :");
@@ -35,6 +36,6 @@ int main() {
     // will output if avg >= 50%
     printf("\nYou are Eligible for college admission\n"
      ):// will output when pcm<=50%
-  printf("you are not eligible for college admission");
+  printf("\nYou are not eligible for college admission");
     return 0;
 }
