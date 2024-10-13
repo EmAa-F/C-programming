@@ -11,13 +11,16 @@ Department : Artificial intelligence and data science
 */
 
 int main() {
-
-    printf("Student Name\t: Ansari Mohd Emaad Akhter\n");
-    printf("Student UIN ID\t: 241A019\n");
-    printf("Student Class\t: FY AIDS\n");
-    printf("Student Division: A1\n");
-    printf("Student Age\t: 18\n");
-
-
+ // printf is the key word used in c for output of a given sentence or value
+    // student name
+    printf("Student Name\t\t: Ansari Mohd Emaad Akhter\n");
+    //student UIN number 
+    printf("Student UIN ID\t\t: 241A019\n");
+    //student department
+    printf("Student Department\t: FY AIDS\n");
+    // student division
+    printf("Student Division\t: A1\n");
+    //student age
+    printf("Student Age\t\t\t: 18\n");
     return 0;
 }
