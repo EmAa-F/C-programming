@@ -2,7 +2,7 @@
 void is_prime(int num);
 int main (){
     printf("\t\t\t *** Prime Number Finder *** \n\n");1
-int s_n,e_n,i,c=0;
+int s_n,e_n,i;
 i= s_n<=1?2:s_n;
 printf("enter Starting number:");
 scanf("%d",&s_n);
@@ -13,11 +13,9 @@ i= s_n<=1?2:s_n;
 while (i <=e_n){
 if(is_prime_number(i)){
     printf("%d,",i);
-    c++;
+    
 }
- i++;
-}
-printf("   \n%d",c);
+ i++;}
 return 0;}
 int is_prime_number(int num){
     for (int i=2; i<num; i++) {
