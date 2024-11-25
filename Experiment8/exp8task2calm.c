@@ -1,7 +1,7 @@
 /*Aim : WAP to check if the entered string is pallindrome or not.
-Name : Mohammed Aquib 
-Roll no : 06
-UIN : 241A006
+Name : emaad Ansari 
+Roll no : 19
+UIN : 241A019
 Division : A*/
 #include<stdio.h>
 int main()
