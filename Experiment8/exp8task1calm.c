@@ -1,7 +1,7 @@
 /*Aim : WAP to find the length of a string without using library function.
-Name : Mohammed Aquib 
-Roll no : 06
-UIN : 241A006
+Name : emaad Ansari 
+Roll no : 19
+UIN : 241A019
 Division : A*/
 #include<stdio.h>
 int main()
